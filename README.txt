@@ -1,8 +1,29 @@
 
 
+STARTING ENVIROMENT
 
-SETTING UP 
 
+
+npm i
+npm run watchts
+npm run watchscss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Extras
 
 npm init -y 
 
